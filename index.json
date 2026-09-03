@@ -1,0 +1,8 @@
+{
+  "service": "v9-signals",
+  "version": "1.0",
+  "description": "V9 策略信号数据服务 - GitHub Pages",
+  "signals_dir": "signals/",
+  "latest_tip": "请按日期读取 signals/信号_YYYY-MM-DD.json",
+  "sample_url": "signals/信号_YYYY-MM-DD.json"
+}
