@@ -4,5 +4,14 @@
   "description": "V9 策略信号数据服务 - GitHub Pages",
   "signals_dir": "signals/",
   "latest_tip": "请按日期读取 signals/信号_YYYY-MM-DD.json",
-  "sample_url": "signals/信号_YYYY-MM-DD.json"
+  "sample_url": "signals/信号_YYYY-MM-DD.json",
+  "signals": [
+    {
+      "date": "2026-09-09",
+      "filename": "信号_2026-09-09_publish.json",
+      "pages_url": "https://ply319319.github.io/v9-signals/signals/%E4%BF%A1%E5%8F%B7_2026-09-09_publish.json",
+      "candidate_count": 0,
+      "updated_at": "2026-09-10 06:30:29"
+    }
+  ]
 }
