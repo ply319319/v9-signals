@@ -6,33 +6,7 @@
     "index_ma60": 3957.52,
     "is_up": true
   },
-  "buy_candidates": [
-    {
-      "stock_code": "sh600745",
-      "stock_name": "闻泰科技",
-      "sector": "科技成长",
-      "close_price": 18.53,
-      "score": 0.4142229764095504,
-      "details": {
-        "close": 18.53,
-        "ma20": 17.6,
-        "rsi6": 53.62,
-        "rsi12": 55.29,
-        "macd_dif": 0.39,
-        "macd_dea": 0.12,
-        "macd_bar": 0.52,
-        "drawdown_pct": 0.06366851945426974,
-        "volume_ratio": 0.8411545570058913,
-        "ma_slope_pct": 0.03590347263095957,
-        "ma20_position": 0.05284090909090907,
-        "score": 0.4142229764095504,
-        "slope_score": 0.7180694526191913,
-        "drawdown_score": 0.02620371038764101,
-        "vol_score": 0.39711360748527186
-      },
-      "reason": "MA20趋势强劲向上；缩量企稳；MACD金叉确认，动能转强"
-    }
-  ],
+  "buy_candidates": [],
   "sell_signals": [],
   "current_holdings": [],
   "strategy_params": {
@@ -51,5 +25,10 @@
       "trailing_drawdown_pct": 0.03,
       "time_stop_days": 5
     }
+  },
+  "st_filtered": {
+    "buy_removed": 1,
+    "sell_removed": 0,
+    "holding_removed": 0
   }
 }
