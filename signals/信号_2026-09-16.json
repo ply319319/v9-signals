@@ -2,8 +2,8 @@
   "scan_date": "2026-09-16",
   "strategy": "V9趋势回踩策略（方案B MACD金叉版）",
   "market_status": {
-    "index_close": 3854.46,
-    "index_ma60": 3928.78,
+    "index_close": 3891.6,
+    "index_ma60": 3929.4,
     "is_up": false
   },
   "buy_candidates": [],
